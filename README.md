@@ -6,7 +6,22 @@
 
 <img align="right" height="350" src="https://camo.githubusercontent.com/f0bc252cd072d68455b13bf0a34d78430a84ec88cc1fb339c182a267265ea984/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  />
 
+<br>
+
+<div align="right">
+  <a href="https://discord.com/channels/yErO#2474" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="yassine.labhar.1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yassinelabhar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
 ###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="42" alt="javascript logo"  />
@@ -26,19 +41,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://discord.com/channels/yErO#2474" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="yassine.labhar.1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yassinelabhar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YassineLabhar&&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -46,6 +49,8 @@
 </div>
 
 ###
+
+<br>
 
 <img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
