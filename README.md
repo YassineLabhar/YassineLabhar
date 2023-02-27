@@ -1,10 +1,11 @@
 <h2 align="center">Hi <img src="https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" style="width: 3%;" data-target="animated-image.originalImage"> My name is Yassine Labhar and I'm a Software Engineering Programme,<br> from ALX and Holberton School.</h2>
 
 ###
-
+<h5 align="center">IT Manager with more than six years of complete networks experience offering a unique combination of creativity and analytical skills, with the ability to asses cost-effective solutions, project planning and management, project execution, information systems support and problem resolution.
+Strong track record in creating strategies for improvement of internal operations and workflow for various departments and business operations, while providing a solid skill set in project documentation, budget planning, teamwork, and leadership.</h5>
 <br>
 
-<img align="right" height="300" src="https://camo.githubusercontent.com/f0bc252cd072d68455b13bf0a34d78430a84ec88cc1fb339c182a267265ea984/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  />
+<img align="right" height="355" src="https://camo.githubusercontent.com/f0bc252cd072d68455b13bf0a34d78430a84ec88cc1fb339c182a267265ea984/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  />
 
 ###
 
@@ -43,9 +44,8 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YassineLabhar&&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&username=YassineLabhar&&hide_title=false&layout=compact&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
