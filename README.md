@@ -2,16 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassineLabhar&&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&username=YassineLabhar&&hide_title=false&layout=compact&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br>
 
-<img align="right" height="250" src="https://camo.githubusercontent.com/f0bc252cd072d68455b13bf0a34d78430a84ec88cc1fb339c182a267265ea984/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  />
+<img align="right" height="350" src="https://camo.githubusercontent.com/f0bc252cd072d68455b13bf0a34d78430a84ec88cc1fb339c182a267265ea984/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  />
 
 ###
 
@@ -47,8 +40,13 @@
 
 ###
 
-<br align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YassineLabhar&&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&username=YassineLabhar&&hide_title=false&layout=compact&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+###
+
+<img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
